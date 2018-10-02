@@ -1,5 +1,5 @@
 # ShinyColourSpaces
 
-A Shiny app for the visualization of animal colour spaces using ![https://cran.r-project.org/][R] and ![https://cran.r-project.org/web/packages/pavo/index.html][pavo]
+An interactive webapp for the visualization of animal colour spaces using [R](https://cran.r-project.org/) and [pavo](https://cran.r-project.org/web/packages/pavo/index.html) built with [Shiny](https://shiny.rstudio.com/)
 
-Interactive version available at ![https://hylopsar.shinyapps.io/tetrashiny/][Shinyapps.io]
+##Live version available at [Shinyapps.io](https://hylopsar.shinyapps.io/tetrashiny/)
